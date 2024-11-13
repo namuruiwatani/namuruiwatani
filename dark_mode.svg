@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="16px">
+<style>
+.keyColor {fill: #ffa657;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+
+<rect width="910px" height="370px" fill="#161b22" rx="15"/>
+
+  <text x="15" y="30" fill="#c9d1d9" class="ascii">
+    <tspan x="15" y="30">     -##*:                      :*#*-                </tspan>
+    <tspan x="15" y="50">  :#*==-=+#+.                .**+====**.           </tspan>
+    <tspan x="15" y="70"> .:        .:               .:.   :.   :.           </tspan>
+    <tspan x="15" y="90" fill="#FF0000">                                 :*:                </tspan>
+    <tspan x="15" y="110" fill="#FF0000">                                 -%-                </tspan>
+    <tspan x="15" y="130" fill="#FF0000">                                 -%-                </tspan>
+    <tspan x="15" y="150" fill="#FF0000">                                 -%-                </tspan>
+    <tspan x="15" y="170" fill="#FF0000">                                 -%-                </tspan>
+    <tspan x="15" y="190" fill="#FF0000">                                  .                 </tspan>
+    <tspan x="15" y="210">        .:                        :.                </tspan>
+    <tspan x="15" y="230">         **:                  .**.  </tspan>
+    <tspan x="15" y="250">           +@@+.             =@@+   </tspan>
+    <tspan x="15" y="270">            :#@@@@@@@%%@@@@@@@%=    </tspan>
+    <tspan x="15" y="290">               :%@@@@@@@@@@%=       </tspan>
+    <tspan x="15" y="310">                  .=@@@@*.          </tspan>
+    <tspan x="15" y="330">                      .             </tspan>
+  </text>
+
+
+
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">Namuru Iwatani</tspan>
+<tspan x="390" y="50">——————</tspan>
+<tspan x="390" y="70" class="keyColor">Who am I?</tspan>: <tspan class="valueColor">Software Engineer</tspan>
+
+<tspan x="390" y="100" class="keyColor">Framework</tspan>: <tspan class="valueColor">React, NextJS, Astro, Laravel</tspan>
+<tspan x="390" y="120" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">C#, JavaScript</tspan>
+<tspan x="390" y="140" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, XAML, Markdown</tspan>
+<tspan x="390" y="160" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English(poorly), Russian, Kazakh</tspan>
+<tspan x="390" y="190" class="keyColor">Hobbies</tspan>: <tspan class="valueColor">Learning to play piano</tspan>
+<tspan x="390" y="220" class="keyColor">Contact</tspan>:
+<tspan x="390" y="240">——————</tspan>
+<tspan x="390" y="260" class="keyColor">Email</tspan>: <tspan class="valueColor">dev.namuru@gmail.com</tspan>
+<tspan x="390" y="280">——————</tspan>
+<tspan x="390" y="300" class="keyColor">Portfolio</tspan>: <tspan class="valueColor">in development</tspan>
+</text>
+
+</svg>
