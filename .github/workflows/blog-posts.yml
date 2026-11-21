@@ -1,0 +1,24 @@
+name: Заметки
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Обновить список заметок из RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://namuruiwatani.github.io/rss.xml"
+          max_post_count: 5
+          comment_tag_name: BLOG-POSTS
+          template: "- [$title]($url) · $date"
+          date_format: "dd.mm.yyyy"
