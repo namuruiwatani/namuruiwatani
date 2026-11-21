@@ -25,9 +25,9 @@
 
 ## Заметки
 
-<!-- BLOG-POSTS:START -->- [После возвращения](https://namuruiwatani.github.io/blog/posle-vozvrashcheniya/) · 09.11.2026
+<!-- BLOG-POSTS:START -->
+- [После возвращения](https://namuruiwatani.github.io/blog/posle-vozvrashcheniya/) · 09.11.2026
 - [Те же улицы](https://namuruiwatani.github.io/blog/te-zhe-ulitsy/) · 09.11.2026
 - [HackerTube: другой способ искать видео](https://namuruiwatani.github.io/blog/hackertube/) · 08.11.2026
 - [arXiv — открытая мастерская науки](https://namuruiwatani.github.io/blog/arxiv-otkrytaya-masterskaya/) · 07.11.2026
-- [Почему пару дней не было новых заметок](https://namuruiwatani.github.io/blog/pochemu-ne-publikoval-v-poezdke/) · 07.11.2026
-<!-- BLOG-POSTS:END -->
+- [Почему пару дней не было новых заметок](https://namuruiwatani.github.io/blog/pochemu-ne-publikoval-v-poezdke/) · 07.11.2026<!-- BLOG-POSTS:END -->
